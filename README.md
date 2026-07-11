@@ -2,8 +2,6 @@
 
 A full-stack task management application with a unique **Smart Priority Sorting System** built with Python Flask and vanilla JavaScript.
 
-![Task Board Demo](https://via.placeholder.com/800x400.png?text=Smart+Task+Board+Demo)
-
 ---
 
 ## ✨ Features
